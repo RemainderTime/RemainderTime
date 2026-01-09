@@ -89,18 +89,3 @@
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://blog.csdn.net/qq_39818325" target="_blank">
-  <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/>
-</a>
-<a href="mailto:your_email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RemainderTime&style=flat-square&color=blue" alt="Profile views" />
-
-</div>
