@@ -6,16 +6,16 @@
 
 <br/>
 
-<!-- 动态打字效果 -->
+<!-- 打字机特效 (如果看不到图片，说明 Heroku 被墙了，可以删掉) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=Spring+Boot+Expert;Microservices+Architect;Building+Production-Grade+Tools;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<!-- 使用统一的 Badge 风格 -->
+<!-- Shields.io 徽章 (国内访问通常正常) -->
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -30,52 +30,38 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 <br/>
 
 ---
 
-### 📊 GitHub Analytics
-
-<!-- 统计卡片布局：左边是综合数据，右边是语言占比 -->
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RemainderTime&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-    <td width="45%" align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainderTime&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-    </td>
-  </tr>
-</table>
-
-<!-- 提交热力图 streak -->
+### 📊 GitHub Activity
+<!-- 替换为更稳定的 Streak Stats 域名 (demolab.com) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RemainderTime&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RemainderTime&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
+
+<!-- 这里的 Stats 卡片如果依然无法加载，建议直接删除，保留上面的 Streak 即可 -->
+<!-- <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RemainderTime&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainderTime&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div> -->
 
 ---
-
-### 🏆 Contributions & Activity
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RemainderTime&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true" />
-  </a>
-</div>
-
-<br/>
 
 ### 💬 Contact Me
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_39818325">
     <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
