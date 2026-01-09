@@ -86,10 +86,6 @@
         </a>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">💡 More to come...</h3>
-      <p align="center">Working on something exciting!</p>
-    </td>
   </tr>
 </table>
 
