@@ -78,6 +78,15 @@
       </div>
     </td>
     <td width="50%">
+      <h3 align="center">🚀 XF-Cloud-Base</h3>
+      <p align="center">A production-grade Spring Cloud Alibaba scaffold.</p>
+      <div align="center">
+        <a href="https://github.com/RemainderTime/spring-cloud-alibaba-base-demo">
+          <img src="https://img.shields.io/github/stars/RemainderTime/spring-cloud-alibaba-base-demo?style=social" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">💡 More to come...</h3>
       <p align="center">Working on something exciting!</p>
     </td>
